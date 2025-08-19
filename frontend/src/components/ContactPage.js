@@ -18,18 +18,18 @@ const ContactPage = () => {
       icon: <Mail className="h-6 w-6" />,
       title: 'Email Support',
       description: 'Send us your queries and suggestions',
-      value: 'support@matherror.com',
+      value: 'shshakib891@gmail.com',
       action: 'Send Email',
-      link: 'mailto:support@matherror.com',
+      link: 'mailto:shshakib891@gmail.com',
       color: 'text-blue-500'
     },
     {
       icon: <Phone className="h-6 w-6" />,
       title: 'Phone Support',
-      description: 'Direct support during office hours',
-      value: '+880 123-456-789',
+      description: 'Personal Phone Number',
+      value: '+8801712-399364',
       action: 'Call Us',
-      link: 'tel:+8801234567890',
+      link: 'tel:+8801712399364',
       color: 'text-purple-500'
     }
   ];
