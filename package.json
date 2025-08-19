@@ -1,1 +1,20 @@
-"homepage": "https://shaitools891-svg.github.io/matherror2",
+{
+  "name": "matherror2",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://shaitools891-svg.github.io/matherror2",
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaitools891-svg/matherror2.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
